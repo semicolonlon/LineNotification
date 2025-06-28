@@ -1,0 +1,3 @@
+from LineNotification import sendMessage
+
+sendMessage("こんにちは","FYeLZfvxtgEE2AjtY3vdGVGMP0+0h2rCUWA2KsByWI6gvb6KXl6rN4X3HKYBkR3UtV42DCikWWNc8HyBmYhyPq6szItb8PlFu5h+9FpX5sMzG2QWwfzf59cGUUwp7vQedqQ3Gmnq6AYvzv0KtRi9nAdB04t89/1O/w1cDnyilFU=","U4ec0a0cf24e6c4cf133155ffd7b2f206")
